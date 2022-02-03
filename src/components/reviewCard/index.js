@@ -1,10 +1,7 @@
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import styled from "styled-components";
 import { Marginer } from "../marginer";
-
-import icons8 from "../../assets/Icon/icons8-twitter-50.png"
 
 
 const CardContainer = styled.div`

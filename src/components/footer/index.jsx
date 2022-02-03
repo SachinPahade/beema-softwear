@@ -1,4 +1,4 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import React from "react";
 import styled from "styled-components";
 import { Button } from "../button";
@@ -24,13 +24,13 @@ font-weight:500;
 color: #fff;
 margin:0;
 `;
-const Line = styled.span`
-min-width:100%;
-min-height:1px;
-margin-bottom:1em;
-${'' /* background-color:#cdcdcd; */}
-display:flex;
-`;
+// const Line = styled.span`
+// min-width:100%;
+// min-height:1px;
+// margin-bottom:1em;
+// ${'' /* background-color:#cdcdcd; */}
+// display:flex;
+// `;
 const AccessibilityContainer =styled.div`
 width:80%;
 display:flex;

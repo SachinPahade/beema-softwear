@@ -1,4 +1,4 @@
-import { counter } from '@fortawesome/fontawesome-svg-core';
+
 import React from 'react'
 import { Element, scroller } from "react-scroll";
 import styled from 'styled-components'
